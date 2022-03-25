@@ -2,6 +2,6 @@
   "name": "portfolio",
   "private": true,
   "dependencies": {
-    "electron": "^5.0.6"
+    "electron": "^13.6.6"
   }
 }
